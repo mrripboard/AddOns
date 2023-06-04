@@ -1,0 +1,10 @@
+## Title: HarvestMap-EP-Zones
+## Author: Shinni
+## Description: This HarvestMap-module is used to store data for zones that belong to the Ebonheart Pact.
+## DependsOn: HarvestMap
+## AddOnVersion: 31501
+## APIVersion: 101038 101037
+## SavedVariables: HarvestEP_SavedVars
+## DisableSavedVariablesAutoSaving: 1
+
+HarvestMapEP.lua

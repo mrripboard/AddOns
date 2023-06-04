@@ -1,0 +1,10 @@
+## Title: HarvestMap-NoFaction-Zones
+## Author: Shinni
+## Description: This HarvestMap-module is used to store data that do not belong into any of the other modules.
+## DependsOn: HarvestMap
+## AddOnVersion: 31501
+## APIVersion: 101038 101037
+## SavedVariables: HarvestNF_SavedVars
+## DisableSavedVariablesAutoSaving: 1
+
+HarvestMapNF.lua
